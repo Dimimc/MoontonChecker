@@ -1,4 +1,4 @@
-# MOONTON ACCOUNT CHECKER
+# FB CHEKER
 
 Can only be run in python3
 
